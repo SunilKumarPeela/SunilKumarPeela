@@ -7,8 +7,6 @@
 
 ---
 
-### 🧠 About Me
-
 ## 🧠 About Me
 
 🚀 I’m a **Cybersecurity Engineer** with over **5 years of hands-on experience** protecting enterprise and cloud environments from digital threats.
