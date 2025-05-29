@@ -81,19 +81,20 @@ Specialized in:
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sunilkumarpeela" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
 
   <!-- Gmail -->
   <a href="mailto:linussunil38@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/>
   </a>
 
-  <!-- Personal Website -->
-  <a href="https://www.sunilkumarpeela.com" target="_blank">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-website-coding-and-development-flat-flat-juicy-fish.png" width="40" alt="Website"/>
+  <!-- Google -->
+  <a href="https://www.google.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-logo.png" width="40" alt="Google"/>
   </a>
 </p>
+
 
 ---
 
