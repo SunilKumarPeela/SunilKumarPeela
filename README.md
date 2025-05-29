@@ -78,10 +78,22 @@ Specialized in:
 
 ### 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sunilkumarpeela)  
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=for-the-badge)](https://github.com/SunilKumarPeela)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/@hadaavidi)  
-📧 linussunil38@gmail.com  
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/sunilkumarpeela" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:linussunil38@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Gmail"/>
+  </a>
+
+  <!-- Personal Website -->
+  <a href="https://www.sunilkumarpeela.com" target="_blank">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-website-coding-and-development-flat-flat-juicy-fish.png" width="40" alt="Website"/>
+  </a>
+</p>
 
 ---
 
