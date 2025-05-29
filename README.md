@@ -57,7 +57,7 @@ Specialized in:
 
 ### 🔭 Featured Projects
 
-- 🔐 **EntangleX** – Patent-pending quantum cybersecurity system for post-breach data control  
+- 🔐 **EntangleX** – Patent- quantum cybersecurity system for post-breach data control  
 - ✨ **FlickerCrypt** – Flicker-based encryption using LFSR and visual strobe simulation  
   
 
@@ -97,6 +97,3 @@ Specialized in:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunilKumarPeela&show_icons=true&theme=radical" />
-</p>
