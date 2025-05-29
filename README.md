@@ -2,7 +2,7 @@
 <h3 align="center">🔐 Security Engineer | 🧪 Quantum Tech Inventor | 🎓 CSU Cybersecurity Graduate Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3plMWg4aW52dmM4Y3dtb3R1OHpxOXlhd2tzY2p6ZDJmbmZhaW4zMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="500" />
+  <img src="https://github.com/SunilKumarPeela/Images/blob/main/WhatsAppVideo2025-05-28at21.59.38_52862c9e-ezgif.com-video-to-gif-converter.gif" width="500" />
 </p>
 
 ---
