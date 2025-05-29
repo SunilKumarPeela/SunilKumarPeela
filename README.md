@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Peela</h1>
-<h3 align="center">🔐 Cyber Security Engineer | 🧪 SOC Analyst | 🎓 CSU Cybersecurity Graduate Student</h3>
+<h3 align="center">🔐 Cyber Security Engineer | 🧪 SOC Analyst | 🎓 Cloud practitioner</h3>
 
 <p align="center">
   <img src="https://github.com/SunilKumarPeela/Images/blob/main/WhatsAppVideo2025-05-28at21.59.38_52862c9e-ezgif.com-video-to-gif-converter.gif" width="500" />
