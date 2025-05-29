@@ -9,16 +9,37 @@
 
 ### 🧠 About Me
 
-I’m a cybersecurity engineer with over **5 years of experience** in enterprise and cloud security environments.  
-Specialized in:
-- **SIEM engineering**
-- **IAM/Zero Trust architecture**
-- **Threat modeling**
-- **Cloud security** with **Google Cloud & Azure**
+## 🧠 About Me
 
-🎓 MCIS Cybersecurity at Colorado State University  
-🎯 VP at Tech Masters Connect, CSU  
-🔬 Researcher & Inventor of **EntangleX**, **FlickerCrypt**
+🚀 I’m a **Cybersecurity Engineer** with over **5 years of hands-on experience** protecting enterprise and cloud environments from digital threats.
+
+I don’t just follow cybersecurity —  
+**I reinvent it.**
+
+---
+
+### 🔬 Specializations
+
+- 🧰 **SIEM Engineering** – Custom dashboarding, real-time threat hunting, and forensic log analysis  
+- 🔐 **IAM & Zero Trust Architecture** – Protecting identities, enforcing least privilege access  
+- 🧠 **Threat Modeling** – Mapping risks before attackers exploit them  
+- ☁️ **Cloud Security** – Hardening workloads in **Google Cloud** & **Microsoft Azure**
+
+---
+
+### 🎓 Credentials & Leadership
+
+- 🎓 MCIS in Cybersecurity @ *Colorado State University*  
+- 🎯 **VP** @ *Tech Masters Connect*, CSU  
+- 🔍 **Inventor & Researcher** of  
+  ⚛️ `EntangleX` – A quantum-secure, post-breach data control system  
+  💡 `FlickerCrypt` – An encryption system inspired by visual flicker strobe optics
+
+---
+
+💬 *“I believe in turning futuristic ideas into deployable security systems.”*  
+Let’s build the next-gen cyber defense — one innovation at a time.
+
 
 ---
 
