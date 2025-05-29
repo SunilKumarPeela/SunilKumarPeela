@@ -18,7 +18,7 @@ Specialized in:
 
 🎓 MCIS Cybersecurity at Colorado State University  
 🎯 VP at Tech Masters Connect, CSU  
-🔬 Researcher & Inventor of **EntangleX**, **FlickerCrypt**, **Xbit**
+🔬 Researcher & Inventor of **EntangleX**, **FlickerCrypt**
 
 ---
 
@@ -43,6 +43,7 @@ Specialized in:
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA%20Security+-ED1D25?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA%20CySA+-ED1D25?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/ISC2%20CC-009639?style=for-the-badge&logo=isc2&logoColor=white" />
