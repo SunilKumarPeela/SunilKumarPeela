@@ -36,8 +36,6 @@ I don’t just follow cybersecurity —  **I reinvent it.**
 💬 *“I believe in turning futuristic ideas into deployable security systems.”*  
 Let’s build the next-gen cyber defense — one innovation at a time.
 
-
----
 ---
 
 ### 📫 Let’s Connect!
