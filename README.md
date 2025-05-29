@@ -13,9 +13,7 @@
 
 🚀 I’m a **Cybersecurity Engineer** with over **5 years of hands-on experience** protecting enterprise and cloud environments from digital threats.
 
-I don’t just follow cybersecurity —  
-**I reinvent it.**
-
+I don’t just follow cybersecurity —  **I reinvent it.**
 ---
 
 ### 🔬 Specializations
@@ -39,6 +37,29 @@ I don’t just follow cybersecurity —
 
 💬 *“I believe in turning futuristic ideas into deployable security systems.”*  
 Let’s build the next-gen cyber defense — one innovation at a time.
+
+
+---
+---
+
+### 📫 Let’s Connect!
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/sunilkumarpeela" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:linussunil38@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/>
+  </a>
+
+  <!-- Google -->
+  <a href="https://www.google.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-logo.png" width="40" alt="Google"/>
+  </a>
+</p>
 
 
 ---
@@ -95,27 +116,5 @@ Let’s build the next-gen cyber defense — one innovation at a time.
 **EntangleX**: *A Quantum-Inspired Cybersecurity System for Post-Breach Data Control*  
 📄 Patent App No: **63/793,391**
 
----
 
-### 📫 Let’s Connect!
-
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/sunilkumarpeela" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:linussunil38@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/>
-  </a>
-
-  <!-- Google -->
-  <a href="https://www.google.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/google-logo.png" width="40" alt="Google"/>
-  </a>
-</p>
-
-
----
 
