@@ -59,11 +59,7 @@ Specialized in:
 
 - 🔐 **EntangleX** – Patent-pending quantum cybersecurity system for post-breach data control  
 - ✨ **FlickerCrypt** – Flicker-based encryption using LFSR and visual strobe simulation  
-- ⚡ **Xbit Engine** – Store 1MB in a bit using microvoltage logic  
-- 🌌 **SkyAI** – AI to analyze celestial frequency data for detecting life  
-- 🛡️ **Threat-Intelligence-Capstone** – Breach response simulation in GCP environment
-
----
+  
 
 ### 🏆 Conferences & Competitions
 
