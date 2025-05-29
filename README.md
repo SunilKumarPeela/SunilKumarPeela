@@ -22,29 +22,18 @@ Specialized in:
 
 ---
 
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
----
-
-### 🛠️ Security Tools & Platforms
+### 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-F56C2D?style=for-the-badge&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-005C99?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
@@ -75,18 +64,18 @@ Specialized in:
 
 ---
 
+### 🏆 Conferences & Competitions
+
+- 🧠 **Google Cloud Security Defenders Advantage 2025**  
+- 🥇 **Rocky Mountain Cyberspace Symposium**, **Black Hat USA**, **SANS Leadership Summit**  
+- 🧠 **Media+Tech Innovation Challenge**, **Mountain West CTF**, **ISACA Case Studies**
+
+---
+
 ### 🧪 Patent Spotlight
 
 **EntangleX**: *A Quantum-Inspired Cybersecurity System for Post-Breach Data Control*  
 📄 Patent App No: **63/793,391**
-
----
-
-### 🏆 Conferences & Competitions
-
-- 🧠 Google Cloud Security Defenders Advantage 2025  
-- 🚩 Mountain West CTF, ISACA Case Study, Media+Tech Innovation Challenge  
-- 🎙️ Black Hat USA, SANS Leadership Summit, Rocky Mountain Symposium
 
 ---
 
