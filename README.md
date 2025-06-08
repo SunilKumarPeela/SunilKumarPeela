@@ -96,7 +96,7 @@ Let’s build the next-gen cyber defense — one innovation at a time.
 ### 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20SC--900-2F2FEC?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
